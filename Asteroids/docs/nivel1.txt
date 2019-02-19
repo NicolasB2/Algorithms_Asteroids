@@ -1,0 +1,12 @@
+#nivel
+1
+#cantidadMeteoritos
+4
+#PosX PosY Espera Ruta Direccion
+-100	300	5	./img/asteroide3.gif	Derecha
+690	900	3	./img/asteroide4.gif	Arriba
+1400	560	6	./img/asteroide4.gif	Izquierda
+300	-100	8	./img/asteroide3.gif	Abajo
+
+	
+
